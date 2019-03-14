@@ -1,0 +1,9 @@
+body {
+  background-color: #424040;
+}
+.feed-app{
+  width: 40%;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px 20px;
+}
